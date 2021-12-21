@@ -1,0 +1,21 @@
+def add(x,y):
+    return x+y
+def subtract(x,y):
+    return x-y
+def multiply(x,y):
+    return x*y
+def divide(x,y):
+    return x/y
+x = int(input("Enter a number : "))
+y = int(input("Enter another number : "))
+choice = input("Enter an operator : ")
+if(choice=="+"):
+    print("The sum is ",add(x,y))
+elif(choice=="-"):
+    print("The difference is ",subtract(x,y))
+elif(choice=="*"):
+    print("The product is ",multiply(x,y))
+elif(choice=="/"):
+    print("The answer is ",divide(x,y))
+else:
+    print("Invalid input!")
