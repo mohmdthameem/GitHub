@@ -1,4 +1,4 @@
 # GitHub
 
-stigma nuts
+stigma balls
 
