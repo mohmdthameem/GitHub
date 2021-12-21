@@ -1,5 +1,5 @@
 # GitHub
 
-***How to bark like a dog redefined***
+***Repository contaning the code for a calculator***
 
-![This is an image](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=1.00xw:0.669xh;0,0.190xh&resize=1200:*)
+![This is an image](https://i.pinimg.com/736x/84/42/14/84421486bcccc4a2098c7111d0b14184.jpg)
